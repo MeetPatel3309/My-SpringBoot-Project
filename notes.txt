@@ -1,0 +1,18 @@
+******  My_SpringBoot_Project  ******
+
+
+=> SpringBoot CRUD With Hibernate Relationship 
+
+
+=> OneToOne, OneToMany OR ManyToOne, ManyToMany Relationship example 
+
+
+=> OneToOne --> User - Address Relationship
+
+=> ManyToOne --> Employee - Department
+
+=> ManyToMany --> Student - Course
+
+
+=> In this project i also set the custom response
+=> create ResponseBean and set the response into it and send that bean as a response via ResponseEntity
